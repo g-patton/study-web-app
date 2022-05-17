@@ -29,16 +29,5 @@ Install [Node.js](https://nodejs.org/en/). Open up a terminal and clone the proj
 ```
 git clone https://github.com/g-patton/study-web-app.git
 cd study-web-app
-npm install
+
 ```
-
-## :wrench: Usage
-
-The following commands are used for development and building:
-
-| Node.js command | Description |
-|-----------------|-------------|
-| `npm start` | Builds the project in development mode and launches `Electron`. |
-| `npm run package` | Generates a portable application in the `dist` folder. |
-| `npm run publish` | Generates a distributable application in the `dist` folder. |
-
