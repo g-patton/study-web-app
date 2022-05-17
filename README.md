@@ -7,8 +7,6 @@ and test their knowledge against two sided cards on the internet.
 
 It can be used at https://gpstudyapp.netlify.app/
 
-#Features
-
 ## :pushpin: Features
 
 * Allows users to write flashcards 
