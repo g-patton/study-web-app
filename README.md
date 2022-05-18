@@ -23,7 +23,7 @@ It can be used at https://gpstudyapp.netlify.app/
 
 ## :scroll: Setup
 
-Install [Node.js](https://nodejs.org/en/). Open up a terminal and clone the project 
+Open up a terminal and clone the project 
 `cd` into the project root folder and install all dependencies:
 
 ```
