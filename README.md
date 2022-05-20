@@ -24,7 +24,7 @@ It can be used at https://gpstudyapp.netlify.app/
 ## :scroll: Setup
 
 Open up a terminal and clone the project 
-`cd` into the project root folder and install all dependencies:
+`cd` into the project root folder:
 
 ```
 git clone https://github.com/g-patton/study-web-app.git
